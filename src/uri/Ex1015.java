@@ -3,7 +3,7 @@ package uri;
 import java.io.Closeable;
 import java.util.Scanner;
 
-public class ex1015 {
+public class Ex1015 {
 
 	public static void main(String[] args) {
 		

@@ -3,7 +3,7 @@ package uri;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex1018 {
+public class Ex1018 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         

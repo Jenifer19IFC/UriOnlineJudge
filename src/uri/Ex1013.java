@@ -1,26 +1,24 @@
 package uri;
-
+ 
 import java.io.IOException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex1011{
+public class Ex1013 {
  
     public static void main(String[] args) throws IOException {
  
         Locale.setDefault(Locale.US);
 		Scanner input = new Scanner(System.in);
 
-		int R = input.nextInt();  
+		int a = input.nextInt();  
+		int b = input.nextInt();  
+		int c = input.nextInt();  
 		
-		double pi = 3.14159;
+		int MAIORAB = (a + b + Math.abs(a - b))/ 2;
+		int MAIORABC = (MAIORAB + c + Math.abs(MAIORAB - c))/ 2;
 
-
-		
-		double VOLUME = ((4/3.0) * pi * (Math.pow(R, 3)));
-		
-
-		System.out.printf("VOLUME = %.3f%n",  VOLUME);
+		System.out.println(MAIORABC + " eh o maior");
 		input.close();
  
     }

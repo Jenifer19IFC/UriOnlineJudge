@@ -2,7 +2,7 @@ package uri;
 
 import java.io.IOException;
 import java.util.Scanner;
-public class ex1005 {
+public class Ex1005 {
 
 	public static void main(String[] args) {
 			

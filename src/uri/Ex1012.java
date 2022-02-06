@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex1012 {
+public class Ex1012 {
  
     public static void main(String[] args) throws IOException {
         

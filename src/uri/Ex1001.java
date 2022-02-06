@@ -1,6 +1,6 @@
 package uri;
 import java.util.Scanner;
-public class ex1001 {
+public class Ex1001 {
 
 	public static void main(String[] args) {
 		

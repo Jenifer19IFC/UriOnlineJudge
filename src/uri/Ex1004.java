@@ -3,7 +3,7 @@ package uri;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex1004 {
+public class Ex1004 {
 
 	public static void main(String[] args) {
 		
