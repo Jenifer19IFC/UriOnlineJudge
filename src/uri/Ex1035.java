@@ -2,7 +2,7 @@ package uri;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex1035 {
 
 	public static void main(String[] args) {
 		
