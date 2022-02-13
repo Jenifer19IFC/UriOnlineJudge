@@ -27,7 +27,7 @@ public class Ex1038 {
 			t = 1.5 * y;
 		}
 		
-		System.out.printf("Total: R$%.2f%n", t);	
+		System.out.printf("Total: R$ %.2f%n", t);	
 		
 		input.close();
 		
